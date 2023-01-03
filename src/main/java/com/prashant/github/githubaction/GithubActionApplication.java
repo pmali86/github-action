@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GithubActionApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(GithubActionApplication.class, args);
 	}
 
